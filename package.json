@@ -10,11 +10,5 @@
       "type": "git",
       "url": "git+https://github.com/bschulzke/benschulzke.git"
     },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/bschulzke/benschulzke/issues"
-    },
-    "homepage": "https://github.com/bschulzke/benschulzke/"
+    "homepage": "https://bschulzke.github.io/benschulzke"
   }
